@@ -20,7 +20,7 @@ namespace Programação_sozinha_parte_1
             do
             {
 
-                if (sinal1 > 5)
+                if (sinal1 > 5 || sinal1 == 0)
                 {
                     Console.WriteLine("Voce deve escolher uma das opcoes acima");
                     sinal1 = int.Parse(Console.ReadLine());
@@ -83,11 +83,6 @@ namespace Programação_sozinha_parte_1
                 Console.WriteLine("Potenciação de "+n1+" = "+Resultado);
                 
             }
-            else
-            {
-
-            }
-            
             Console.ReadLine();
         }
     }
