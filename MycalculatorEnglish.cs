@@ -80,7 +80,7 @@ namespace Programação_sozinha_parte_1
                 }
                 
 
-                Console.WriteLine("Potenciação de "+n1+" = "+Result);
+                Console.WriteLine(n1+"to the" +n2+ "th power"+" = "+Result);
                 
             }
             Console.ReadLine();
