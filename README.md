@@ -7,7 +7,7 @@
 ### Which program i used?
         I used Visual Studio.
         
-# Portugues
+# Português
 
 ### Qual linguagem eu usei?
         Eu usei C#.
