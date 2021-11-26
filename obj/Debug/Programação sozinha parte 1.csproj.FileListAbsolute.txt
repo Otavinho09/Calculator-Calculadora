@@ -1,0 +1,7 @@
+C:\Users\Otávio\source\repos\Programação sozinha parte 1\Programação sozinha parte 1\bin\Debug\Programação sozinha parte 1.exe.config
+C:\Users\Otávio\source\repos\Programação sozinha parte 1\Programação sozinha parte 1\bin\Debug\Programação sozinha parte 1.exe
+C:\Users\Otávio\source\repos\Programação sozinha parte 1\Programação sozinha parte 1\bin\Debug\Programação sozinha parte 1.pdb
+C:\Users\Otávio\source\repos\Programação sozinha parte 1\Programação sozinha parte 1\obj\Debug\Programação sozinha parte 1.csproj.CoreCompileInputs.cache
+C:\Users\Otávio\source\repos\Programação sozinha parte 1\Programação sozinha parte 1\obj\Debug\Programação sozinha parte 1.exe
+C:\Users\Otávio\source\repos\Programação sozinha parte 1\Programação sozinha parte 1\obj\Debug\Programação sozinha parte 1.pdb
+C:\Users\Otávio\source\repos\Programação sozinha parte 1\Programação sozinha parte 1\obj\Debug\Programação sozinha parte 1.csproj.AssemblyReference.cache
